@@ -1,3 +1,5 @@
+<img src="https://github.com/Armagaan/Armagaan/blob/main/graph-rope.jpg" width=100%;>
+
 # Hi, I'm Armagaan👋🏻
 #### 🎓 I'm a PhD student. My research is on explainability in graph machine learning.
 #### 🔭 Currently, I'm working on graph counterfactuals.
