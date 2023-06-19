@@ -1,10 +1,10 @@
 <img src="https://github.com/Armagaan/Armagaan/blob/main/graph-rope.jpg" width=100%;>
 
 # Hi, I'm Armagaan👋🏻
-🙂 I'm a PhD student. My research is on explainability in graph machine learning.<br>
+🙂 I'm a PhD student researching explainability in graph machine learning.<br>
 🔭 At the moment, I'm working on graph counterfactuals.<br>
 📫 Reach out to me at armgaan009@gmail.com<br>
-👀 You can check out my portfolio website [here](https://armagaan.github.io/)
+👀 You can check out my website [here](https://armagaan.github.io/)
 
 ### ✍🏻 Dev Moto
 
