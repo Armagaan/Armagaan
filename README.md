@@ -1,3 +1,4 @@
+<img src="https://github.com/Armagaan/Armagaan/blob/main/graph-rope.jpg" alt="Description of the image" style="width: 100%;">
 <h1 align="center">Hi 👋, I'm Armagaan</h1>
 <h3 align="center">PhD student @ IIT Delhi</h3>
 <h4 align="center">
