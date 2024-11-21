@@ -2,7 +2,7 @@
 
 # Hi, I'm Armagaan👋🏻
 🙂 I'm a PhD student researching explainable graph machine learning.<br>
-🔭 At the moment, I'm developing interpretable graph neural nets.<br>
+🔭 At the moment, I'm working on global explanations for GNNs.<br>
 📫 Reach out to me at armgaan009@gmail.com<br>
 👀 You can check out my website [here](https://armagaan.github.io/)
 
