@@ -1,8 +1,7 @@
 <img src="https://github.com/Armagaan/Armagaan/blob/main/graph-rope.jpg" width=100%;>
 
-# Hi, I'm Armagaan👋🏻
+# Hi, I'm Armagaan (ارمغان) 👋🏻
 🙂 I'm a PhD student researching explainable graph machine learning.<br>
-🔭 At the moment, I'm working on global explanations for GNNs.<br>
 📫 Reach out to me at armgaan009@gmail.com<br>
 👀 You can check out my website [here](https://armagaan.github.io/)
 
