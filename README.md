@@ -1,10 +1,10 @@
 <img src="https://github.com/Armagaan/Armagaan/blob/main/graph-rope.jpg" width=100%;>
 
 # Helloo 👋🏻 
-💬 My name is ارمغان, pronouned ar-ma-gaan.<br>
+💬 My name is ارمغان, pronounced ar-ma-gaan.<br>
 🙂 I'm a PhD Candidate at IIT Delhi researching explainable graph machine learning.<br>
 📫 You can reach out to me at armgaan009@gmail.com<br>
-🕸️ [Website](https://armagaan.github.io/)
+🕸️ You'll find my website [here](https://armagaan.github.io/)
 
 ### 🖋️ Dev Motto
 
