@@ -1,7 +1,7 @@
 <img src="https://github.com/Armagaan/Armagaan/blob/main/graph-rope.jpg" width=100%;>
 
 # Helloo 👋🏻 
-💬 My name is ارمغان, pronounced ar-ma-gaan.<br>
+💬 My name is بروج ارمغان  , pronounced bu-rooj ar-ma-gaan.<br>
 🙂 I'm a PhD Candidate at IIT Delhi researching explainable graph machine learning.<br>
 📫 You can reach out to me at armgaan009@gmail.com<br>
 🕸️ You'll find my website [here](https://armagaan.github.io/)
@@ -23,7 +23,7 @@
 </em>
 </div>
 
-## 💻 Proficiency
+## Proficiency
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
